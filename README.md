@@ -9,8 +9,8 @@
 ---
 
 ## About Me
+A Full Stack & Web3 developer from India, currently pursuing B.Tech in Computer Science Engineering. I enjoy turning ideas into real products — from building robust backends to exploring decentralized systems. Always learning.
 
-A passionate Full Stack and Web3 developer from India. Currently pursuing B.Tech in Computer Science Engineering at MAIT, Delhi (Class of 2028).
 
 ---
 
@@ -43,8 +43,4 @@ A passionate Full Stack and Web3 developer from India. Currently pursuing B.Tech
 
 ## 📊 GitHub Stats
 
-![Krishna's GitHub Stats](https://github-readme-stats.shion.dev/api?username=KrishnaGupta-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnaGupta-create&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=KrishnaGupta-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
