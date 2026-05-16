@@ -43,4 +43,4 @@ Aspiring Full Stack & Web3 developer from India, currently pursuing B.Tech in Co
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnaGupta-create&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=krshn0x&theme=dark&hide_border=false)
