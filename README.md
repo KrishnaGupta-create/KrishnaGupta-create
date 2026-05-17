@@ -9,7 +9,7 @@
 ---
 
 ## About Me
-Aspiring Full Stack & Web3 developer from India, currently pursuing B.Tech in Computer Science Engineering. I enjoy turning ideas into real products — from building robust backends to exploring decentralized systems. Always learning.
+Aspiring Full Stack & Web3 developer from India, currently pursuing B.Tech in Computer Science Engineering. I enjoy turning ideas into real products — from building robust backends to exploring decentralized systems. 
 
 
 ---
